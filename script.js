@@ -15,7 +15,7 @@ setInterval(() => {
 
     heroSectionOfHomePage[count].style.display = 'block';
     count = (count + 1) % heroSectionOfHomePage.length;
-}, 5000);
+}, 3000);
 
 
 // Slider Functionality
