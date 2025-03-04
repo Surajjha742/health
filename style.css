@@ -2626,6 +2626,7 @@ hr {
     .footerContainer {
         flex-direction: column;
         align-items: center;
+        margin-top: 107px;
     }
 
     .singleFooterContainer {
@@ -2649,6 +2650,9 @@ hr {
 
     footer p {
         font-size: 12px;
+    }
+    .boxLeftOfContent {
+        padding: 32px;
     }
 }
 
@@ -2680,5 +2684,8 @@ hr {
 
     footer p {
         font-size: 10px;
+    }
+    .boxLeftOfContent {
+        padding: 25px;
     }
 }
